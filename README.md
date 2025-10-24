@@ -32,34 +32,14 @@ Atualmente, estou aprofundando meus conhecimentos através das **formações da 
 | Formação / Curso | Plataforma | Certificado |
 |------------------|-------------|--------------|
 | GitHub Certification | DIO | [🔗 Ver Certificado](#) |
-| AZ-900 Certification | DIO / Microsoft | [🔗 Ver Certificado](#) |
-| DevOps Fundamentals | DIO | [🔗 Ver Certificado](#) |
-| Lógica de Programação | DIO | [🔗 Ver Certificado](#) |
-| AWS Cloud Practitioner Certification | DIO / AWS | [🔗 Ver Certificado](#) |
-| Cybersecurity Specialist | DIO | [🔗 Ver Certificado](#) |
-| CI/CD com GitLab | DIO | [🔗 Ver Certificado](#) |
-| Kubernetes Fundamentals | DIO | [🔗 Ver Certificado](#) |
-| Docker Fundamentals | DIO | [🔗 Ver Certificado](#) |
-| Google Cloud Platform Specialist | DIO | [🔗 Ver Certificado](#) |
-| Linux Fundamentals | DIO | [🔗 Ver Certificado](#) |
 
-
----
-
-## 📂 Projetos em destaque
-
-🔹 [**Automação de Deploy com Docker**](#) — Containerizando uma aplicação Node.js  
-🔹 [**Pipeline CI/CD com GitLab**](#) — Integração contínua e deploy automatizado  
-🔹 [**Infraestrutura na AWS**](#) — Aplicação escalável na nuvem  
-🔹 [**Scripts Linux para automação**](#) — Utilitários de linha de comando  
 
 ---
 
 ## 📫 Contato
 
 📧 **E-mail:** joaolucas@email.com  
-💼 **LinkedIn:** [linkedin.com/in/joaolucas](www.linkedin.com/in/joão-lucas-frangiotti-9a373a297)  
-🌐 **Portfólio / Site:** [padariapaisefilhos.com.br](#) *(se quiser colocar algo pessoal)*  
+💼 **LinkedIn:** [linkedin.com/in/joaolucas](www.linkedin.com/in/joão-lucas-frangiotti-9a373a297)   
 
 ---
 
