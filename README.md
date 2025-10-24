@@ -12,7 +12,7 @@ Sou um desenvolvedor em constante aprendizado, com foco em **back-end, cloud e a
 Atualmente, estou aprofundando meus conhecimentos através das **formações da DIO** e criando projetos práticos para aplicar o que aprendo.
 
 📍 Brasil  
-🎓 Estudante de **Programação Orientada a Objetos e Cloud Computing**  
+🎓 Estudante de **Ciências da Computação e Cloud Computing**  
 💡 Interesse em **DevOps, Docker, AWS, CI/CD e Segurança da Informação**  
 
 ---
