@@ -19,9 +19,9 @@ Atualmente, estou aprofundando meus conhecimentos através das **formações da 
 
 ## 🧰 Tecnologias e Ferramentas
 
-💻 **Linguagens:** Java, Python, Shell Script  
+💻 **Linguagens:** Java, Python
 ⚙️ **DevOps:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD  
-☁️ **Cloud:** AWS, Azure, Google Cloud  
+☁️ **Cloud:** AWS, Azure 
 🖥️ **Sistemas:** Linux, Windows Server  
 📦 **Outros:** Git, GitHub, PowerShell  
 
@@ -38,7 +38,7 @@ Atualmente, estou aprofundando meus conhecimentos através das **formações da 
 
 ## 📫 Contato
 
-📧 **E-mail:** joaolucas@email.com  
+📧 **E-mail:** joaolucasfrangiotti3@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/joaolucas](www.linkedin.com/in/joão-lucas-frangiotti-9a373a297)   
 
 ---
